@@ -1,0 +1,74 @@
+*body {
+    background-color: black;
+    background-size: cover;
+}
+
+
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+
+/* Header*/
+.contenedor {
+    background-image: url(header2.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100px;
+
+}
+/*Estetica boton comienzo*/
+.comienzo {
+    display: block;
+    width: 50px;
+    height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 50px;
+    font-size: 50px;
+    background-color: chocolate;
+    border-radius: 10px;
+    padding: 15px 30px;
+    margin: 50px 40px;
+    color: whitesmoke;
+    text-decoration: none;
+    position: absolute;
+}
+/* animacion boton comienzo*/
+.comienzo:hover {
+    background-color: transparent;
+    border: 2px solid;
+    color: blue;
+}
+/* estetica Botones de transicion*/
+.ag1 {
+    display: inline-flex;
+    width: 500px;
+    height: 500px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, ;
+    font-weight: 700px;
+    font-size: 100px;
+    background-color: rgb(202, 216, 11);
+    border-radius: 10px;
+    padding: 15px 30px;
+    margin: 150px 130px;
+    color: rgb(2, 2, 2);
+    text-decoration-color: black;
+    text-decoration: solid;
+
+}
+/*Animacion botones*/
+.ag1 {
+
+    border: 30px solid;
+    color: rgb(83, 74, 76);
+
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+
